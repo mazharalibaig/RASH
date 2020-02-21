@@ -26,3 +26,51 @@ Room Allocation System for Hostels
   * Clone the repository: `git clone https://github.com/mazharalibaig/RASH.git`
   * Start the WAMP Server
   * Open Browser and navigate to `http://localhost/RASH/`
+  
+## SCREENSHOTS :
+
+
+```diff
++ PORTAL'S HOME PAGE :
+
+```
+
+![Screenshot](homepage.png)
+
+
+```diff
++ SIGN-UP PAGE :
+
+```
+![Screenshot](studentregistration.png)
+
+```diff
++ LOGIN PAGE :
+
+```
+
+![Screenshot](studentlogin.png)
+
+```diff
++ USER'S HOME PAGE :
+
+```
+
+![Screenshot](studentportal.png)
+
+```diff
++ CHANGE PASSWORD :
+
+```
+![Screenshot](changepassword.png)
+```
++ ROOM BOOKING :
+```
+![Screenshot](roombooking.png)
+
+```
++ Change Room :
+```
+![Screenshot](roomchange.png)
+
+
