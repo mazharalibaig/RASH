@@ -1,5 +1,5 @@
 # RASH
-Room Allocation System for Hostels
+Room Allotment System for Hostels - web portal for allotting and changing rooms with seperate interfaces for wardens, caretakers and students.
 
 ## INSTALLATION :
 
